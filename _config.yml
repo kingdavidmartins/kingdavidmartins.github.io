@@ -4,12 +4,12 @@ subtitle:
 email: kingdavidmartins@gmail.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://kingdavidmartins.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
+street_address: 1234 Somewhere Street
+city: Manhattan
 state: NY
-zip_code: 55555
+zip_code: 10014
 country: United States of America
 phone: "(917) ###-####"
 
